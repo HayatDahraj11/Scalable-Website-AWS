@@ -1,5 +1,6 @@
 # Credentials & Certifications
-<img width="794" alt="image" src="https://github.com/user-attachments/assets/92437a04-6e38-4621-a962-c2109eec37a0" />
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/cbe45dc5-2972-49f7-b5e2-3c6bcff4b1d2" />
+
 
 ![aws-academy-graduate-aws-academy-cloud-web-applicat-2](https://github.com/user-attachments/assets/7c00e4b3-ebb6-452e-a5f2-d7bd72903537)
 
